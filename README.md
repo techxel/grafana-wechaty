@@ -28,6 +28,7 @@
     npm install
 
 > 如果环境为`linux`, 需有`g++`编译环境, 才能安装`wechaty-puppet-padplus`
+
 > yum install gcc-c++
 
 #### 启动项目(请先修改`bot.js`里面的参数)
